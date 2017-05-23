@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "my-gem"
   s.version     = My::Gem::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
+  s.authors     = ["Author Name"]
   s.email       = ["TODO: Write your email address"]
   s.homepage    = ""
   s.summary     = %q{TODO: Write a gem summary}
