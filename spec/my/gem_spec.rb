@@ -1,3 +1,5 @@
+require 'spec_helper'
+
 describe My::Gem do
   it 'should have a version number' do
     My::Gem::VERSION.should_not be_nil
