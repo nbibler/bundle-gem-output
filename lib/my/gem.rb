@@ -1,4 +1,4 @@
-require "my-gem/version"
+require "my/gem/version"
 
 module My
   module Gem
