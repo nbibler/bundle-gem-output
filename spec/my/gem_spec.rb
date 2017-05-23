@@ -1,6 +1,6 @@
 require "spec_helper"
 
-describe My::Gem do
+RSpec.describe My::Gem do
   it "has a version number" do
     expect(My::Gem::VERSION).not_to be nil
   end
