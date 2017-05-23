@@ -6,7 +6,9 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'my-gem'
+```ruby
+gem 'my-gem'
+```
 
 And then execute:
 
