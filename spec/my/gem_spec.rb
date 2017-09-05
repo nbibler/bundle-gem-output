@@ -1,5 +1,3 @@
-require "spec_helper"
-
 RSpec.describe My::Gem do
   it "has a version number" do
     expect(My::Gem::VERSION).not_to be nil
