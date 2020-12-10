@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "my/gem/version"
+require_relative "gem/version"
 
 module My
   module Gem
